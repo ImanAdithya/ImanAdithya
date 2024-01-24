@@ -58,5 +58,11 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/f60ef14a-23ad-4a3d-9a75-a0ae79bc5d5c)
 
+## 🏆 GitHub Trophies
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ImanAdithya&layout=compact&theme=algolia" alt="ImanAdithya" />
+ </a>
+</p>
 
 
