@@ -15,8 +15,7 @@
 </div>
 I enjoy building robust and scalable stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.
   Software Engineering Student @IJSE, I'm  currently studying advanced API Development for cross-platform web application development.<br><br>
-    💻 My tech stack includes Java, Mysql, Javafx, JDBC, ORM (Hibernate), Java Sockets, HTML, CSS, JavaScript & Bootstrap, and web development using Servlet Java. <br>    
-    🌱 I'm constantly learning and staying up-to-date with the latest technologies and industry trends.<br>I'm particularly excited about diving into the Internet of Things (IoT) and its potential to revolutionize our lives.<br><br>
+
     📫 You can reach me at adithyaiman07@gmail.com for any collaboration or project opportunities. I'm always open to exciting discussions and connecting with fellow developers. <br><br>
     🌐 Check out my portfolio to see some of my recent projects and contributions.
 <br>    <br>Let's connect and create amazing things together! 
