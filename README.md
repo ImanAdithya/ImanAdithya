@@ -16,9 +16,9 @@
 I enjoy building robust and scalable stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.
   Software Engineering Student @IJSE, I'm  currently studying advanced API Development for cross-platform web application development.<br><br>
 
-    📫 You can reach me at adithyaiman07@gmail.com for any collaboration or project opportunities. I'm always open to exciting discussions and connecting with fellow developers. <br><br>
+     📫 You can reach me at lharshana2002@gmail.com for any collaboration or project opportunities. I'm always open to exciting discussions and connecting with fellow developers. <br><br>
     🌐 Check out my portfolio to see some of my recent projects and contributions.
-<br>    <br>Let's connect and create amazing things together! 
+<br>    <br>Let's connect and create amazing things together! ogether! 
 
 <div align="center">
 
