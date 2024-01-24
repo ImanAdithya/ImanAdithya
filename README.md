@@ -44,5 +44,12 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
                                                                 
 </div>
 
+<div>
+<div align="center">
+
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LahiruHarshana&theme=redical)](https://github.com/ImanAdithya)  
+
+</div>
+</div>
 
 
