@@ -4,9 +4,37 @@
   <img height="" src="https://github.com/ImanAdithya/ImanAdithya/assets/121780063/de0b1866-3b95-49e1-8608-cf435ce65b0f"  />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+</div>
+I enjoy building robust and scalable stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.
+  Software Engineering Student @IJSE, I'm  currently studying advanced API Development for cross-platform web application development.<br><br>
+    💻 My tech stack includes Java, Mysql, Javafx, JDBC, ORM (Hibernate), Java Sockets, HTML, CSS, JavaScript & Bootstrap, and web development using Servlet Java. <br>    
+    🌱 I'm constantly learning and staying up-to-date with the latest technologies and industry trends.<br>I'm particularly excited about diving into the Internet of Things (IoT) and its potential to revolutionize our lives.<br><br>
+    📫 You can reach me at lharshana2002@gmail.com for any collaboration or project opportunities. I'm always open to exciting discussions and connecting with fellow developers. <br><br>
+    🌐 Check out my portfolio to see some of my recent projects and contributions.
+<br>    <br>Let's connect and create amazing things together! 
+
+<div align="center">
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
+
+</div>
+
+
+# 💻 Tech Stack:
+<div align="center">
+
+| Title | Icon |
+| ------ | ------ |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
+| UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
+| Others |  <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,bash" /> |
+| favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui,js,jquery,ts,express,nodejs,mongodb" /> |
+                                                                
+</div>
 
 
 
